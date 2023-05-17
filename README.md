@@ -14,4 +14,4 @@ By the end of the course, participants will be able to:
 
 # Schedule
 ##Day 1
-- (Introduction, concepts, & data types)[IPFB-Day1-Introduction&DataTypes.ipynb]
+- (Introduction, concepts, & data types)[IPFB-Day1-Introduction%26DataTypes.ipynb]
