@@ -1,7 +1,6 @@
 # Introduction to Python Programming for Biologists and Bioinformatics
 Course written and delivered by Dr Daniel Pass ([Compass Bioinformatics](www.compassBioinformatics.co.uk))
-These materials are designed for use in live training sessions and may have spaces where demonstrations and solutions would be shown, but if you're reading these materials outside of a course then please tweet me any feedback @passdan/@CompassBioinf
-Also get in touch if you're interested in joining a course
+These materials are designed for use in live training sessions and may have spaces where demonstrations and solutions would be shown, and also supplementary presentations. If you're reading these materials outside of a course then please tweet me any feedback @passdan/@CompassBioinf and make me feel popular! If you're interested in joining a live course then please get in touch for upcoming ones.
 
 
 ## Overview 
@@ -12,3 +11,7 @@ By the end of the course, participants will be able to:
 - Write and run basic Python code for all reasons including to extract, parse, process, analyse and visualise biological data
 - Use specialised bioinformatics libraries in your Python code
 - Understand and perform data analysis and statistics using Python
+
+# Schedule
+##Day 1
+- (Introduction, concepts, & data types)[IPFB-Day1-Introduction&DataTypes.ipynb]
