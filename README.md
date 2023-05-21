@@ -15,26 +15,33 @@ There are a lot of courses out there that show (dump) lots of information and co
 - [Basic data types, first coding, & Data manipulation](Day1/IPFB-Day1-DataTypes_and_Manipulation.ipynb)
 - [I/O handling](Day1/IPFB-Day1-IO.ipynb)
 - [Collections  - Lists & Tuples & Dicts oh my!](Day1/IPFB-Day1-MoreDataTypes.ipynb)
+
 [Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/IPFB-Day1-Project.ipynb)
 
 ## Day 2
 - [Conditionals & loops](Day2/IPFB-Day2-Loops.ipynb)
 - [Organising code with functions](Day2/IPFB-Day2-Functions.ipynb)
 - [Advanced string manipulation](Day2/IPFB-Day2-AdvancedStrings.ipynb)
-[Project: Extract, parse and process FASTA, Bed and GenBank files](Day2/IPFB-Day2-Project.ipynb)
+
+[Project: Handling bioinformatic and bespoke files and functional organisation](Day2/IPFB-Day2-Project.ipynb)
 
 ## Day 3
 - [Modules and libraries: BioPython, numpy, pandas](Day3/IPFB-Day3-Modules.ipynb)
 - [Classes and Object Oriented code](Day3/IPFB-Day3-ClassesAndObjects.ipynb)
-- [Project: Problem solving with objects - viral genomics](Day3/IPFB-Day3-Project.ipynb)
+
+[Project: Problem solving with objects - viral genomics](Day3/IPFB-Day3-Project.ipynb)
 
 ## Day 4
 - [Data visualisation packages (matplotlib/seaborn/plotly)](Day4/IPFB-Day4-Data_visualisation_and_libraries.ipynb)
-- [Project: Create plots of genomic data and compute statistics](Day4/IPFB-Day4-DataProject.ipynb)
+
+[Project: Create plots of genomic data and compute statistics](Day4/IPFB-Day4-DataProject.ipynb)
 - [Coding in the age of ChatGPT and AI bots](Day4/IPFB-Day4-ChatGPT_and_AIs.ipynb)
-- [Project: Developing your-research project concepts and presentation]
+
+[Project: Developing your-research project concepts and presentation](Day4/)
 
 ## Supplementary
+- [Comprehensions](Supplementary/)
+- [Commandline vs Jupyter & Argparse](Supplementary/)
 
 
 
