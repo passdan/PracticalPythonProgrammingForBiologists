@@ -43,7 +43,7 @@ There are a lot of coding courses in the world that show (dump) lots of informat
 
 ## Supplementary
 - [Comprehensions](Supplementary/)
-- [Commandline vs Jupyter & Argparse](Supplementary/)
+- [Commandline program running & Argparse](Supplementary/)
 
 
 
