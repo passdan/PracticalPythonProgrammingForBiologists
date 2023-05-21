@@ -11,32 +11,30 @@ There are a lot of courses out there that show (dump) lots of information and co
 
 # Schedule
 ## Day 1
-- [Introduction, concepts, & data types](IPFB-Day1-Introduction%26DataTypes.ipynb)
-- Basic data types, first coding, & Data manipulation
--  I/O handling
-- Collections  - Lists & Tuples & Dicts oh my!
-Project: Manipulating DNA sequences - Transcription Factor Binding
+- [Introduction, concepts, & data types](Day1/IPFB-Day1-Introduction%26DataTypes.ipynb)
+- [Basic data types, first coding, & Data manipulation](Day1/IPFB-Day1-DataTypes_and_manipulation.ipynb)
+- [I/O handling](Day1/IPFB-Day1-IO.ipynb)
+- [Collections  - Lists & Tuples & Dicts oh my!](Day1/IPFB-Day1-MoreDataTypes.ipynb)
+[Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/IPFB-Day1-Project.ipynb)
 
 ## Day 2
-- Conditionals & loops
-- Handling bioinformatic file formats
-- Advanced string manipulation
-Project: Extract, parse and process FASTA, Bed and GenBank files
+- [Conditionals & loops](Day2/IPFB-Day2-Loops.ipynb)
+- [Organising code with functions](Day2/IPFB-Day2-Functions.ipynb)
+- [Advanced string manipulation](Day2/IPFB-Day2-AdvancedStrings.ipynb)
+[Project: Extract, parse and process FASTA, Bed and GenBank files](Day2/IPFB-Day2-Project.ipynb)
 
 ## Day 3
-- Organising code with functions
-- Modules and libraries: BioPython, numpy, pandas
-- Object oriented code
-- Further coding practice with biological data manipulation and analysis techniques
-- Project: Problem solving with real-world biological datasets
+- [Modules and libraries: BioPython, numpy, pandas](Day3/IPFB-Day3-Modules.ipynb)
+- [Classes and Object Oriented code](Day3/IPFB-Day3-ClassesAndObjects.ipynb)
+- [Project: Problem solving with objects - viral genomics](Day3/IPFB-Day3-Project.ipynb)
 
 ## Day 4
-- Data visualisation packages (matplotlib/seaborn/plotly)
-- Project: Create basic plots of genetic data and compute basic statistics
-- Accessing third-party bioinformatics tools with Python
-- Coding in the age of ChatGPT and AI bots
-- Project: Developing your-research project concepts and sharing code
+- [Data visualisation packages (matplotlib/seaborn/plotly)](Day4/IPFB-Day4-Data_visualisation_and_libraries.ipynb)
+- [Project: Create plots of genomic data and compute statistics](Day4/IPFB-Day4-DataProject.ipynb)
+- [Coding in the age of ChatGPT and AI bots](Day4/IPFB-Day4-ChatGPT_and_AIs.ipynb)
+- [Project: Developing your-research project concepts and presentation]
 
+## Supplementary
 
 
 
