@@ -1,4 +1,5 @@
 # Introduction to Python Programming for Biologists and Bioinformatics
+<img align="right" width="328" height="380" src="Misc/Headshot-lowres.png">
 Course written and delivered by Dr Daniel Pass ([Compass Bioinformatics](www.compassBioinformatics.co.uk))
 These materials are designed for use in live training sessions and may have spaces where demonstrations and solutions would be shown, and also supplementary presentations. If you're reading these materials outside of a course then please tweet me any feedback @passdan/@CompassBioinf and make me feel popular! If you're interested in joining a live course then please get in touch for upcoming ones.
 
