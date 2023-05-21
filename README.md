@@ -1,15 +1,15 @@
 # Introduction to Python Programming for Biologists and Bioinformatics
 <img align="right" width="328" height="380" src="Misc/Headshot-lowres.png">
 
-Course written and delivered by Dr Daniel Pass ([Compass Bioinformatics](www.CompassBioinformatics.co.uk))
-These materials are designed for use in live training sessions and may have spaces where demonstrations and solutions would be shown, and also supplementary presentations. If you're reading these materials outside of a course then please tweet me any feedback @passdan/@CompassBioinf and make me feel popular! If you're interested in joining a live course then please get in touch for upcoming ones.
+Course written and delivered by Dr Daniel Pass ([Compass Bioinformatics](www.CompassBioinformatics.co.uk)).
+
+These materials are designed for use in live training sessions and therefore have spaces where explanations, demonstrations, and solutions would be discussed and shown. Also there are supplementary presentations in a live course. If you're reading these materials outside of a course then please tweet me any feedback @passdan/@CompassBioinf and make me feel popular! If you're interested in joining a live course then please get in touch for upcoming ones.
 
 ## Overview 
-This is a four-day course designed to provide an introduction to the Python programming language for all biologists and life scientists. Throughout the course, participants will learn python programming concepts and practical applications, engaging in hands-on coding exercises and projects to solidify their understanding. 
-The course is intended for biologists at all levels (students, researchers, and group leaders) with little or no prior programming experience. The pace of the course will begin foundational and develop into more complex aspects, with lots of time dedicated to the practice of the concepts covered.
+This is a four-day course designed to provide an introduction to the Python programming language for all biologists and life scientists looking to begin or solidify their coding. The course is intended for biologists at all levels (students, researchers, postdocs, and even PIs and group leaders!) with little or no prior programming experience. The pace of the course will begin foundational and develop into more complex aspects, with lots of time dedicated to the practice of the concepts covered.
 
 ## Course design
-There are a lot of courses out there that show (dump) lots of information and concepts on new users where you read and write notes, become very good at copy/paste, and then forget 24 hours after the course finishes. This course is designed with time and space allocated to practice the actual code concepts and get good at the fundementals, producing real and useful outputs, and hopefully making it more likely to be directly relevant for your research. It also means that in these materials there are some places where I leave an empty space, or give a project which should be challenging. It is designed to be hard and make you think and struggle! And then we will work together to solve issues, and I will provide "perfect" answers.
+There are a lot of coding courses in the world that show (dump) lots of information and concepts on new users where you read and write notes, become very good at copy/paste, and then forget 24 hours after the course finishes. This course is designed with time and space to practice the actual code concepts and get good at the fundementals, producing real and useful outputs togheher. Therefore hopefully making it more likely to be directly relevant for your research. It also means that in these materials there are some places where I leave an empty space, or give a project which should be challenging. It is designed to be hard and make you think and struggle! And then we will work together to solve issues, find solutions, and I will provide "perfect" answers.
 
 # Schedule
 ## Day 1
