@@ -11,6 +11,8 @@ This is a four-day course designed to provide an introduction to the Python prog
 ## Course design
 There are a lot of coding courses in the world that show (dump) lots of information and concepts on new users where you read and write notes, become very good at copy/paste, and then forget 24 hours after the course finishes. This course is designed with time and space to practice the actual code concepts and get good at the fundementals, producing real and useful outputs togheher. Therefore hopefully making it more likely to be directly relevant for your research. It also means that in these materials there are some places where I leave an empty space, or give a project which should be challenging. It is designed to be hard and make you think and struggle! And then we will work together to solve issues, find solutions, and I will provide "perfect" answers.
 
+This github is of course read-only so my recomendation is to open [Google Colab](https://colab.research.google.com/) and point it to this github repository to run and edit the notebooks yourself. However, any Jupyter environment will work.
+
 # Schedule
 ## Day 1
 - [Introduction, concepts, & data types](Day1/IPFB-Day1-Introduction.ipynb)
