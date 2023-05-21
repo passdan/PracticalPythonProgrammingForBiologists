@@ -11,8 +11,8 @@ There are a lot of courses out there that show (dump) lots of information and co
 
 # Schedule
 ## Day 1
-- [Introduction, concepts, & data types](Day1/IPFB-Day1-Introduction%26DataTypes.ipynb)
-- [Basic data types, first coding, & Data manipulation](Day1/IPFB-Day1-DataTypes_and_manipulation.ipynb)
+- [Introduction, concepts, & data types](Day1/IPFB-Day1-Introduction.ipynb)
+- [Basic data types, first coding, & Data manipulation](Day1/IPFB-Day1-DataTypes_and_Manipulation.ipynb)
 - [I/O handling](Day1/IPFB-Day1-IO.ipynb)
 - [Collections  - Lists & Tuples & Dicts oh my!](Day1/IPFB-Day1-MoreDataTypes.ipynb)
 [Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/IPFB-Day1-Project.ipynb)
