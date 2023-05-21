@@ -1,0 +1,106 @@
+daily_sales = \
+"""Edith Mcbride   -%1.21   -   Chloroflexi - 
+09/15/17   ,Herbert Tran   -   %7.29- 
+Chloroflexi&Acidobacteria-   09/15/17 ,Paul Clarke -%12.52 
+-   Chloroflexi&Acidobacteria - 09/15/17 ,Lucille Caldwell   
+-   %5.13   - Chloroflexi   - 09/15/17,
+Eduardo George   -%20.39- Chloroflexi&Bacillus 
+-09/15/17   ,   Danny Mclaughlin-%30.82-   
+Actinomycetes -09/15/17 ,Stacy Vargas- %1.85   - 
+Actinomycetes&Bacillus -09/15/17,   Shaun Brock- 
+%17.98-Actinomycetes&Bacillus - 09/15/17 , 
+Erick Harper -%17.41- Acidobacteria - 09/15/17, 
+Michelle Howell -%28.59- Acidobacteria-   09/15/17   , 
+Carroll Boyd- %14.51-   Actinomycetes&Acidobacteria   -   
+09/15/17   , Teresa Carter   - %19.64 - 
+Chloroflexi-09/15/17   ,   Jacob Kennedy - %11.40   
+- Chloroflexi&Firmicutes   - 09/15/17, Craig Chambers- 
+%8.79 - Chloroflexi&Acidobacteria&Firmicutes   -09/15/17   , Peggy Bell- %8.65 -Acidobacteria   - 09/15/17,   Kenneth Cunningham -   %10.53-   Proteobacteria&Acidobacteria   - 
+09/15/17   ,   Marvin Morgan-   %16.49- 
+Proteobacteria&Acidobacteria&Firmicutes   -   09/15/17 ,Marjorie Russell 
+- %6.55 -   Proteobacteria&Acidobacteria&Firmicutes-   09/15/17 ,
+Israel Cummings-   %11.86   -Cyanobacteria-  
+09/15/17,   June Doyle   -   %22.29 -  
+Cyanobacteria&Bacillus -09/15/17 , Jaime Buchanan   -   
+%8.35-   Chloroflexi&Cyanobacteria&Bacillus   -   09/15/17,   
+Rhonda Farmer-%2.91 -   Chloroflexi&Cyanobacteria&Bacillus   
+-09/15/17, Darren Mckenzie -%22.94-Proteobacteria 
+-09/15/17,Rufus Malone-%4.70   - Proteobacteria&Bacillus 
+- 09/15/17   ,Hubert Miles-   %3.59   
+-Proteobacteria&Bacillus&Acidobacteria-   09/15/17   , Joseph Bridges  -%5.66   - Proteobacteria&Bacillus&Actinomycetes&Acidobacteria 
+-   09/15/17 , Sergio Murphy   -%17.51   -   
+Cyanobacteria   -   09/15/17 , Audrey Ferguson - 
+%5.54-Cyanobacteria&Acidobacteria   -09/15/17 ,Edna Williams - 
+%17.13- Cyanobacteria&Acidobacteria-   09/15/17,   Randy Fleming-   %21.13 -Cyanobacteria -09/15/17 ,Elisa Hart- %0.35   - Cyanobacteria&Actinomycetes-   09/15/17   ,
+Ernesto Hunt - %13.91   -   Cyanobacteria&Actinomycetes -   
+09/15/17,   Shannon Chavez   -%19.26   - 
+Bacillus- 09/15/17   , Sammy Cain- %5.45-   
+Bacillus&Firmicutes -09/15/17 ,   Steven Reeves -%5.50   
+-   Bacillus-   09/15/17, Ruben Jones   - 
+%14.56 -   Bacillus&Acidobacteria-09/15/17 , Essie Hansen-   %7.33   -   Bacillus&Acidobacteria&Firmicutes
+- 09/15/17   ,   Rene Hardy   - %20.22   - 
+Cyanobacteria -   09/15/17 ,   Lucy Snyder   - %8.67   
+-Cyanobacteria&Firmicutes  - 09/15/17 ,Dallas Obrien -   
+%8.31-   Cyanobacteria&Firmicutes -   09/15/17,   Stacey Payne 
+-   %15.70   -   Chloroflexi&Cyanobacteria&Firmicutes -09/15/17   
+,   Tanya Cox   -   %6.74   -Bacillus   - 
+09/15/17 , Melody Moran -   %30.84   
+-Bacillus&Cyanobacteria-   09/15/17 , Louise Becker   - 
+%12.31 - Proteobacteria&Bacillus&Cyanobacteria-   09/15/17 ,
+Ryan Webster-%2.94 - Bacillus - 09/15/17 
+,Justin Blake - %22.46   -Chloroflexi&Bacillus -   
+09/15/17,   Beverly Baldwin -   %6.60-   
+Chloroflexi&Bacillus&Cyanobacteria -09/15/17   ,   Dale Brady   
+-   %6.27 - Bacillus   -09/15/17 ,Guadalupe Potter -%21.12   - Bacillus- 09/15/17   , 
+Desiree Butler -%2.10   -Chloroflexi- 09/15/17  
+,Sonja Barnett - %14.22 -Chloroflexi&Cyanobacteria-   
+09/15/17, Angelica Garza-%11.60-Chloroflexi&Cyanobacteria   
+-   09/15/17   ,   Jamie Welch   - %25.27   - 
+Chloroflexi&Cyanobacteria&Firmicutes -09/15/17   ,   Rex Hudson   
+-%8.26-   Actinomycetes- 09/15/17 ,   Nadine Gibbs 
+-   %30.80 -   Actinomycetes&Bacillus   - 09/15/17   , 
+Hannah Pratt-   %22.61   -   Actinomycetes&Bacillus   
+-09/15/17,Gayle Richards-%22.19 - 
+Proteobacteria&Actinomycetes&Bacillus -09/15/17   ,Stanley Holland 
+- %7.47   - Firmicutes - 09/15/17 , Anna Dean-%5.49 - Bacillus&Firmicutes -   09/15/17   ,
+Terrance Saunders -   %23.70  -Proteobacteria&Bacillus&Firmicutes 
+- 09/15/17 ,   Brandi Zimmerman - %26.66 - 
+Firmicutes   -09/15/17 ,Guadalupe Freeman - %25.95- 
+Proteobacteria&Firmicutes -   09/15/17   ,Irving Patterson 
+-%19.55 - Proteobacteria&Chloroflexi&Firmicutes -   09/15/17 ,Karl Ross-   %15.68-   Chloroflexi -   09/15/17 , Brandy Cortez -%23.57-   Chloroflexi&Firmicutes   -09/15/17, 
+Mamie Riley   -%29.32- Actinomycetes-09/15/17 ,Mike Thornton   - %26.44 -   Actinomycetes   - 09/15/17, 
+Jamie Vaughn   - %17.24-Proteobacteria - 09/15/17   , 
+Noah Day -   %8.49   -Proteobacteria   -09/15/17   
+,Josephine Keller -%13.10 -Proteobacteria-   09/15/17 ,   Tracey Wolfe-%20.39 - Firmicutes   - 09/15/17 ,
+Ignacio Parks-%14.70   - Chloroflexi&Firmicutes -09/15/17 
+, Beatrice Newman -%22.45   -Chloroflexi&Actinomycetes&Firmicutes 
+-   09/15/17, Andre Norris   -   %28.46   -   
+Firmicutes-   09/15/17 ,   Albert Lewis - %23.89-   
+Cyanobacteria&Firmicutes- 09/15/17,   Javier Bailey   -   
+%24.49   - Cyanobacteria&Firmicutes - 09/15/17   , Everett Lyons -%1.81-   Cyanobacteria&Firmicutes - 09/15/17 ,   
+Abraham Maxwell- %6.81   -Proteobacteria-   09/15/17   
+,   Traci Craig -%0.65- Proteobacteria&Bacillus- 
+09/15/17 , Jeffrey Jenkins   -%26.45- 
+Proteobacteria&Bacillus&Acidobacteria   -   09/15/17,   Merle Wilson 
+-   %7.69 - Actinomycetes- 09/15/17,Janis Franklin   
+-%8.74   - Actinomycetes&Cyanobacteria   -09/15/17 ,  
+Leonard Guerrero -   %1.86   -Bacillus  
+-09/15/17,Lana Sanchez-%14.75   - Bacillus-   
+09/15/17   ,Donna Ball - %28.10  - 
+Bacillus&Acidobacteria-   09/15/17   , Terrell Barber   - 
+%9.91   - Proteobacteria -09/15/17   ,Jody Flores- 
+%16.34 - Proteobacteria -   09/15/17,   Daryl Herrera 
+-%27.57- Chloroflexi-   09/15/17   , Miguel Mcguire-%5.25- Chloroflexi&Acidobacteria   -   09/15/17 ,   
+Rogelio Gonzalez- %9.51-   Chloroflexi&Cyanobacteria&Acidobacteria   
+-   09/15/17   ,   Lora Hammond -%20.56 - 
+Proteobacteria-   09/15/17,Owen Ward- %21.64   -   
+Proteobacteria&Bacillus-09/15/17,Malcolm Morales -   
+%24.99   -   Proteobacteria&Bacillus&Cyanobacteria- 09/15/17 ,   
+Eric Mcdaniel -%29.70- Proteobacteria - 09/15/17 
+,Madeline Estrada-   %15.52-Proteobacteria-   09/15/17 
+, Leticia Manning-%15.70 - Proteobacteria&Actinomycetes- 
+09/15/17 ,   Mario Wallace - %12.36 -Proteobacteria - 
+09/15/17,Lewis Glover-   %13.66   -   
+Proteobacteria&Chloroflexi-09/15/17,   Gail Phelps   -%30.52   
+- Proteobacteria&Chloroflexi&Acidobacteria   - 09/15/17 , Myrtle Morris 
+-   %22.66   - Proteobacteria&Chloroflexi&Acidobacteria-09/15/17"""
