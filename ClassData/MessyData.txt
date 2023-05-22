@@ -1,5 +1,4 @@
-daily_sales = \
-"""Edith Mcbride   -%1.21   -   Chloroflexi - 
+Edith Mcbride   -%1.21   -   Chloroflexi - 
 09/15/17   ,Herbert Tran   -   %7.29- 
 Chloroflexi&Acidobacteria-   09/15/17 ,Paul Clarke -%12.52 
 -   Chloroflexi&Acidobacteria - 09/15/17 ,Lucille Caldwell   
@@ -103,4 +102,4 @@ Eric Mcdaniel -%29.70- Proteobacteria - 09/15/17
 09/15/17,Lewis Glover-   %13.66   -   
 Proteobacteria&Chloroflexi-09/15/17,   Gail Phelps   -%30.52   
 - Proteobacteria&Chloroflexi&Acidobacteria   - 09/15/17 , Myrtle Morris 
--   %22.66   - Proteobacteria&Chloroflexi&Acidobacteria-09/15/17"""
+-   %22.66   - Proteobacteria&Chloroflexi&Acidobacteria-09/15/17
