@@ -30,8 +30,8 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 [Project: Handling bioinformatic and bespoke files and functional organisation](Day2/P34B-Day2-Project.ipynb)
 
 ## Day 3
-- [Modules and libraries: BioPython, numpy, pandas](Day3/P34B-Day3-Modules.ipynb)
 - [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
+- [Modules and libraries: BioPython, numpy, pandas](Day3/P34B-Day3-Modules-Biopython_and_Stats.ipynb)
 - [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
 
 [Project: Problem solving with objects - viral genomics](Day3/P34B-Day3-Project.ipynb)
