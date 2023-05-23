@@ -18,21 +18,20 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 - [Introduction, concepts, & data types](Day1/P34B-Day1-Introduction.ipynb)
 - [Basic data types, first coding, & Data manipulation](Day1/P34B-Day1-DataTypes_and_Manipulation.ipynb)
 - [Collections  - Lists & Tuples & Dicts oh my!](Day1/P34B-Day1-MoreDataTypes.ipynb)
-- [I/O handling](Day1/P34B-Day1-IO.ipynb)
 
 [Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/P34B-Day1-Project.ipynb)
 
 ## Day 2
 - [Conditionals & loops](Day2/P34B-Day2-Loops.ipynb)
-- [Organising code with functions](Day2/P34B-Day2-Functions.ipynb)
+- [I/O handling](Day1/P34B-Day1-IO.ipynb)
 - [Advanced string manipulation](Day2/P34B-Day2-AdvancedStrings.ipynb)
 
 [Project: Handling bioinformatic and bespoke files and functional organisation](Day2/P34B-Day2-Project.ipynb)
 
 ## Day 3
+- [Organising code with functions](Day2/P34B-Day2-Functions.ipynb)
 - [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
 - [Modules and libraries: BioPython, numpy, pandas](Day3/P34B-Day3-Modules-Biopython_and_Stats.ipynb)
-- [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
 
 [Project: Problem solving with objects - viral genomics](Day3/P34B-Day3-Project.ipynb)
 
@@ -40,9 +39,10 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 - [Data visualisation packages (matplotlib/seaborn/plotly)](Day4/P34B-Day4-Data_visualisation_and_libraries.ipynb)
 
 [Project: Create plots of genomic data and compute statistics](Day4/P34B-Day4-DataProject.ipynb)
+- [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
 - [Coding in the age of ChatGPT and AI bots](Day4/P34B-Day4-ChatGPT_and_AIs.ipynb)
 
-[Project: Developing your-research project concepts and presentation](Day4/)
+[Project: Developing your-research project concepts and coding skills](Day4/)
 
 ## Supplementary
 - [Comprehensions](Supplementary/)
