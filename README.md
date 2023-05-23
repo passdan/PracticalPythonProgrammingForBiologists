@@ -17,8 +17,8 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 ## Day 1
 - [Introduction, concepts, & data types](Day1/P34B-Day1-Introduction.ipynb)
 - [Basic data types, first coding, & Data manipulation](Day1/P34B-Day1-DataTypes_and_Manipulation.ipynb)
-- [I/O handling](Day1/P34B-Day1-IO.ipynb)
 - [Collections  - Lists & Tuples & Dicts oh my!](Day1/P34B-Day1-MoreDataTypes.ipynb)
+- [I/O handling](Day1/P34B-Day1-IO.ipynb)
 
 [Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/P34B-Day1-Project.ipynb)
 
@@ -32,6 +32,7 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 ## Day 3
 - [Modules and libraries: BioPython, numpy, pandas](Day3/P34B-Day3-Modules.ipynb)
 - [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
+- [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
 
 [Project: Problem solving with objects - viral genomics](Day3/P34B-Day3-Project.ipynb)
 
@@ -45,4 +46,3 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 
 ## Supplementary
 - [Comprehensions](Supplementary/)
-- [Commandline program running & Argparse](Supplementary/)
