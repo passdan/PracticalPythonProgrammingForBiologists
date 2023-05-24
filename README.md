@@ -29,7 +29,7 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 
 ## Day 3
 - [Organising code with functions](Day2/P34B-Day2-Functions.ipynb)
-- 
+
 [Project: Chipseq, bespoke file formats, and functional organisation](Day2/P34B-Day2-Project.ipynb)
 
 - [Modules and libraries: BioPython, numpy, pandas](Day3/P34B-Day3-Modules-Biopython_and_Stats.ipynb)
