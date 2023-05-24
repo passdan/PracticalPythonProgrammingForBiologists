@@ -25,12 +25,12 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 - [Conditionals & loops](Day2/P34B-Day2-Loops.ipynb)
 - [I/O handling](Day1/P34B-Day1-IO.ipynb)
 - [Advanced string manipulation](Day2/P34B-Day2-AdvancedStrings.ipynb)
-
-[Project: Handling bioinformatic and bespoke files and functional organisation](Day2/P34B-Day2-Project.ipynb)
+[Project: Messy data handling]()
 
 ## Day 3
 - [Organising code with functions](Day2/P34B-Day2-Functions.ipynb)
-- [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
+[Project: Handling bioinformatic and bespoke files and functional organisation](Day2/P34B-Day2-Project.ipynb)
+
 - [Modules and libraries: BioPython, numpy, pandas](Day3/P34B-Day3-Modules-Biopython_and_Stats.ipynb)
 
 [Project: Problem solving with objects - viral genomics](Day3/P34B-Day3-Project.ipynb)
@@ -42,7 +42,8 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 - [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
 - [Coding in the age of ChatGPT and AI bots](Day4/P34B-Day4-ChatGPT_and_AIs.ipynb)
 
-[Project: Developing your-research project concepts and coding skills](Day4/)
+[Developing your-research project, Future directions and coding skills](Day4/)
 
 ## Supplementary
+- [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
 - [Comprehensions](Supplementary/P34B-Comprehensions.ipynb)
