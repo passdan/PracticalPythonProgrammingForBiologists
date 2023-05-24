@@ -42,10 +42,10 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 
 [Project: Create plots of genomic data and compute statistics](Day4/P34B-Day4-Project.ipynb)
 - [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
-- [Coding in the age of ChatGPT and AI bots](Day4/P34B-Day4-ChatGPT_and_AIs.ipynb)
 
 [Developing your-research project, Future directions and coding skills](Day4/)
 
 ## Supplementary
 - [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
 - [Comprehensions](Supplementary/P34B-Comprehensions.ipynb)
+- [Coding in the age of ChatGPT and AI bots](Day4/P34B-Day4-ChatGPT_and_AIs.ipynb)
