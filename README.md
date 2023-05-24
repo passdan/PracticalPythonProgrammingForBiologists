@@ -45,4 +45,4 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 [Project: Developing your-research project concepts and coding skills](Day4/)
 
 ## Supplementary
-- [Comprehensions](Supplementary/)
+- [Comprehensions](Supplementary/P34B-Comprehensions.ipynb)
