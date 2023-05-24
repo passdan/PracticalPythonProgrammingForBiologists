@@ -38,7 +38,7 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 ## Day 4
 - [Data visualisation packages (matplotlib/seaborn/plotly)](Day4/P34B-Day4-Data_visualisation_and_libraries.ipynb)
 
-[Project: Create plots of genomic data and compute statistics](Day4/P34B-Day4-DataProject.ipynb)
+[Project: Create plots of genomic data and compute statistics](Day4/P34B-Day4-Project.ipynb)
 - [Your code as command line programs & argparse](Day3/P34B-Day3-CLI_and_argparse.ipynb)
 - [Coding in the age of ChatGPT and AI bots](Day4/P34B-Day4-ChatGPT_and_AIs.ipynb)
 
