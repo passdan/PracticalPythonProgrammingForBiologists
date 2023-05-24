@@ -25,6 +25,7 @@ This github is of course read-only so my recomendation is to open [Google Colab]
 - [Conditionals & loops](Day2/P34B-Day2-Loops.ipynb)
 - [I/O handling](Day1/P34B-Day1-IO.ipynb)
 - [Advanced string manipulation](Day2/P34B-Day2-AdvancedStrings.ipynb)
+- 
 [Project: Messy data handling]()
 
 ## Day 3
