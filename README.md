@@ -1,5 +1,5 @@
 # Practical Python Programming for Biologists
-<img align="right" width="328" height="380" src="images/Headshot-lowres.png">
+<img align="right" width="328" height="380" src="Images/Headshot-lowres.png">
 
 Course written and delivered by Dr Daniel Pass ([Compass Bioinformatics](https://www.CompassBioinformatics.co.uk)).
 
