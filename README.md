@@ -32,19 +32,17 @@ This github is read-only and my recomendation is to open [Google Colab](https://
 
 ## Day 3
 - [Organising code with functions](Day3/P34B-Day2-Functions.ipynb)
+- [I/O handling](Day3/P34B-Day3-IO.ipynb)
 
 [Project: Chipseq, bespoke file formats, and functional organisation](Day3/P34B-Day3-Project-ChipSeq.ipynb)
 
-- [I/O handling](Day3/P34B-Day3-IO.ipynb)
 - [Modules and libraries: BioPython](Day3/P34B-Day3-Modules-Biopython.ipynb)
-
-[Project: Problem solving with objects - viral genomics](Day3/P34B-Day3-Project-covid_modules.ipynb)
 
 ## Day 4
 - [Modules and libraries: pandas, numPy, & sciPy](Day4/P34B-Day4-Modules-Stats.ipynb)
 - [Data visualisation packages (matplotlib/seaborn/plotly)](Day4/P34B-Day4-Data_visualisation.ipynb)
 
-[Project: Applying stats and visualisations to our viral genomes](Day4/P34B-Day4-Project-DataVis.ipynb)
+[Project: objects and stats - viral genomics](Day3/P34B-Day3-Project-covid_modules.ipynb)
 
 - [Your code as command line programs & argparse](Day4/P34B-Day3-CLI_and_argparse.ipynb)
 - [Future Directions](Supplementary/P34B-FutureDirections.md)
