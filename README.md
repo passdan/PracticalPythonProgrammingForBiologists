@@ -19,9 +19,10 @@ This github is read-only and my recomendation is to open [Google Colab](https://
 ## Day 1
 - [Introduction, concepts, & data types](Day1/P34B-Day1-Introduction.ipynb)
 - [Basic data types (strings and numbers), & Data manipulation](Day1/P34B-Day1-BasicDataTypes.ipynb)
-- [More Data Types: Lists (and Tuples & Ranges)](Day1/P34B-Day1-Lists_and_friends.ipynb)
+- [More Data Types: Lists (and Tuples & Ranges)](Day1/P34B-Day1-Lists_and_more.ipynb)
 
-[Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/P34B-Day1-Project.ipynb)
+
+[Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/P34B-Day1-project.ipynb)
 
 ## Day 2
 - [More Data Types: Dictionaries](Day2/P34B-Day1-Dictionaries.ipynb)
