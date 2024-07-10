@@ -32,9 +32,9 @@ This github is read-only and my recomendation is to open [Google Colab](https://
 [Project: Messy data handling](Day2/P34B-Day2-Project-MessyData.ipynb)
 
 ## Day 3
-- [Organising code with functions](Day3/P34B-Day3-Functions.ipynb)
 - [I/O handling](Day3/P34B-Day3-IO.ipynb)
 - [Modules and libraries: BioPython](Day3/P34B-Day3-Modules-Biopython.ipynb)
+- [Organising code with functions](Day3/P34B-Day3-Functions.ipynb)
 
 [Project: Chipseq, bespoke file formats, and functional organisation](Day3/P34B-Day3-Project-ChipSeq.ipynb)
 
@@ -49,4 +49,5 @@ This github is read-only and my recomendation is to open [Google Colab](https://
 ## Supplementary
 - [Classes and Object Oriented code](Day3/P34B-Day3-ClassesAndObjects.ipynb)
 - [Comprehensions](Supplementary/P34B-Comprehensions.ipynb)
-- [Coding in the age of ChatGPT and AI bots](Day4/P34B-Day4-ChatGPT_and_AIs.ipynb)
+- [Coding in the age of ChatGPT and AI bots](Supplementary/P34B-ChatGPT_and_AIs.ipynb)
+- [Data Types Review](Supplementary/P34B-DataTypes-review.ipynb)
