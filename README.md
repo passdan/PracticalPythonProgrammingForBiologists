@@ -52,3 +52,5 @@ This github is read-only and my recomendation is to open [Google Colab](https://
 - [Comprehensions](Supplementary/P34B-Comprehensions.ipynb)
 - [Coding in the age of ChatGPT and AI bots](Supplementary/P34B-ChatGPT_and_AIs.ipynb)
 - [Data Types Review](Supplementary/P34B-DataTypes-review.ipynb)
+
+Last update: 29/09/2025
