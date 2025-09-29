@@ -26,7 +26,8 @@ This github is read-only and my recomendation is to open [Google Colab](https://
 
 ## Day 2
 - [More Data Types: Dictionaries](Day2/P34B-Day1-Dictionaries.ipynb)
-- [Conditionals & loops](Day2/P34B-Day2-Loops_and_ifs.ipynb)
+- [Loops](Day2/P34B-Day2-Loops.ipynb)
+- [Conditionals](Day2/P34B-Day2-Conditionals.ipynb)
 - [Advanced string manipulation](Day2/P34B-Day2-AdvancedStrings.ipynb)
  
 [Project: Messy data handling](Day2/P34B-Day2-Project-MessyData.ipynb)
