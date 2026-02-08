@@ -13,14 +13,14 @@ There are a lot of coding courses in the world that show (dump) lots of informat
 
 It also means that in these materials there are some places where I leave an empty space, or give a project designed to be challenging and requiring 20-30 minutes to solve. It is designed to be hard and make you think and struggle! And then we will work together to solve issues, find solutions, and I will provide "perfect" answers.
 
-This github is read-only and my recomendation is to open [Google Colab](https://colab.research.google.com/) and point it to this repository to run and edit the notebooks yourself. However, any Jupyter environment will work.
+This github is read-only and you need a python environment to run the code yourself. You could install it on your own computer, or use an online environment such as Google Colab (but any Jupyter/ipynb environment will work).
 
 # Schedule
 ## Day 1
+- [Setting up the python environment](Supplementary/Setting_up.ipynb)
 - [Introduction, concepts, & data types](Day1/P34B-Day1-Introduction.ipynb)
 - [Basic data types (strings and numbers), & Data manipulation](Day1/P34B-Day1-BasicDataTypes.ipynb)
 - [More Data Types: Lists (and Tuples & Ranges)](Day1/P34B-Day1-Lists_and_more.ipynb)
-
 
 [Project: Manipulating DNA sequences - Transcription Factor Binding](Day1/P34B-Day1-project.ipynb)
 
